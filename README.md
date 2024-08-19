@@ -3,4 +3,4 @@ Hello This Is My First Project <br>
 Author - suman kumar jain <br>
 HomeTown Rajgir <br>
 from today onwards i,ll visit this site everyday . <br>
-Get uo and dont stop until you find your success
+Get up and dont stop until you find your success

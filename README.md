@@ -1,6 +1,6 @@
 # Project-1
 Hello This Is My First Project <br>
-Author - suman kumar jain <br>
+Author - Suman kumar jain <br>
 HomeTown Rajgir <br>
  i,ll visit this site everyday . <br>
-Get up and dont stop until you find your success
+
